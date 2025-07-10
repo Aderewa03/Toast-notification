@@ -8,11 +8,9 @@
 }
 
 body {
-    background-image: url('images/toast_background.png');
-    background-size: contain;
-    background-position: center;
-    height: 20vh;
+    background: #FFF8E1;
 }
+
 
 
 .buttons{
